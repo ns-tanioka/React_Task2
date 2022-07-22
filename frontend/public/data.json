@@ -1,0 +1,8 @@
+{
+    "massage":"This is sample JSON data.",
+    "data":[
+        {"name":"taro", "mail":"taro@yamada","age":39},
+        {"name":"hanako", "mail":"hanako@flower","age":28},
+        {"name":"sachiko", "mail":"taro@happy","age":17}
+    ]
+}
